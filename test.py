@@ -5,4 +5,3 @@ if __name__ == "__main__":
     hello_world()
     print("This is a test script.")
     print("Running test.py")
-    print("This script is used to test the functionality of the code.")
